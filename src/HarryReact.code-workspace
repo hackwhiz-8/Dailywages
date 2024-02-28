@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../HarryReact"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../project-mahaaaa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AnimePanda"
+	}
+}
